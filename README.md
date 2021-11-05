@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fateofyou
+- 👀 I’m interested in coding, coasters, music and content creation.
+- 🌱 I’m currently learning c#
+- 💞️ I’m looking to collaborate on Game Development and coding
